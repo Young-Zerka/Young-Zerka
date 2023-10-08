@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Young-Zerka</h1>
 <h3 align="center">A front-end and back-end developer currently based in Bulgaria.</h3>
+
+<img src="https://cdn.discordapp.com/attachments/1151667741095374888/1160590264260374578/Screenshot_2023-10-08_10_50_58.png?ex=653536e9&is=6522c1e9&hm=b636c443b5485007e1450cd29f855953d79fbaf9e8548559f7cf5a0c7ad2dca7&">
 <br><br>
 
 - 🔭 I’m currently working on **GeoDealer**
