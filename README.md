@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Young-Zerka</h1>
 <h3 align="center">A front-end and back-end developer currently based in Bulgaria.</h3>
-<img align="right" alt="Coding" src="image.jpg">
-
 <br><br>
 
 - 🔭 I’m currently working on **GeoDealer**
